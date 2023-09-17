@@ -1,2 +1,3 @@
 # projector-PT-RZ570E
-Отправка команд на проектор по ethernet или COM-порт
+
+Реализация отправка команда на проектор Panasonic PT-RZ570E через ethernet или COM-порт на qt
